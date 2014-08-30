@@ -17,7 +17,7 @@
 
 
 	/*Desde un escritorio peque;o o tablet*/
-	@media(min-width: 768px) and (max-width: 979px){
+	@media(min-width: 768px)  and (max-width: 979px){
 
 
 		body{ color:green;}
@@ -50,6 +50,31 @@
 <body>
 
 <div class="container">
+
+	<div class="row-fluid">
+		<div class="span12"> &nbsp; </div>
+	</div>
+
+	<div class="row-fluid">
+		<div class="span12">
+			<div class="well  visible-desktop">
+				<h1 class="text-center">Desktop</h1>
+			</div>
+
+			<div class="well  hidden-desktop">
+				<h1 class="text-center">Tablet</h1>
+			</div>
+
+		</div>
+		
+
+
+
+	</div>
+
+
+
+
 	<div class="row">
 		<div class="span12">
 			<h1>Esta es una prueba</h1>
