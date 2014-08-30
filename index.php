@@ -11,9 +11,34 @@
 
 	/*Desde un escritorio*/
 	@media(min-width: 1200px){
+		body{ color:red;}
+
+	}
 
 
+	/*Desde un escritorio peque;o o tablet*/
+	@media(min-width: 768px) and (max-width: 979px){
 
+
+		body{ color:green;}
+
+	}
+
+
+	/*Table o smartphone*/
+	@media(max-width: 767px) {
+
+
+		body{ color:blue;}
+
+	}
+
+
+	/*Smartphone*/
+	@media(max-width: 480px ){
+
+
+		body{ color:yellow;}
 
 	}
 
