@@ -57,12 +57,88 @@
 
 <!--div.row-fluid>div.span6*2-->
 
+
+
 <br>
+<div class="container">
+
+
+<div class="row-fluid">
+	<div class="span12">
+		<div class="page-header">
+			<h1>Iconos Vectoriales</h1>
+		</div>
+	</div>
+</div>
+
+
+
+
+<div class="row-fluid">
+	<div class="span12">
+		<div class="page-header">
+			<h1>Iconos </h1>
+		</div>
+	</div>
+</div>
+
+
+<div class="row-fluid">
+	<div class="span4">
+		<i class="icon-user"></i>
+		<i class="icon-pencil"></i>
+		<i class="icon-file"></i>
+		<a href="" class="btn"><i class="icon-ok"></i> Confirmar</a>
+	</div>
+	<div class="span4">
+		<div class="input-prepend">
+			<span class="add-on">
+				<i class="icon-map-marker"></i>
+			</span>
+			<input type="text">
+		</div>
+		<div class="input-append">
+			<input type="text">
+			<span class="add-on">
+				<i class="icon-time"></i>
+			</span>
+		</div>
+	</div>
+	<div class="span4"></div>
+</div>
 
 
 <div class="row-fluid">
 		<div class="span12"> &nbsp; </div>
 	</div>
+
+<div class="row-fluid">
+	<div class="span12">
+		<div class="page-header">
+			<h1>Imagenes</h1>
+		</div>
+	</div>
+</div>
+
+<div class="row-fluid">
+	<div class="span4">
+		<img src="./img/cuenta.png" alt="Curso" class="img-rounded">
+	</div>
+	<div class="span4">
+		<img src="./img/cuenta.png" alt="Curso" class="img-circle">
+	</div>
+	<div class="span4">
+		<img src="./img/cuenta.png" alt="Curso" class="img-polaroid">
+	</div>
+</div>
+
+<div class="row-fluid">
+	<div class="span12">
+		<div class="page-header">
+			<h1>Botones</h1>
+		</div>
+	</div>
+</div>
 
 
 <div class="row-fluid">
@@ -148,6 +224,14 @@
 
 <div class="row-fluid">
 	<div class="span12">
+		<div class="page-header">
+			<h1>TABLAS</h1>
+		</div>
+	</div>
+</div>
+
+<div class="row-fluid">
+	<div class="span12">
 		<table class="table table-bordered table-striped table-hover table-condensed">
 			<tr>
 				<th>Valor de Prueba</th>
@@ -175,6 +259,13 @@
 			</tr>
 		</table>
 
+	</div>
+</div>
+<div class="row-fluid">
+	<div class="span12">
+		<div class="page-header">
+			<h1>Formularios</h1>
+		</div>
 	</div>
 </div>
 
