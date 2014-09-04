@@ -6,7 +6,10 @@
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.css">
+	<link rel="stylesheet" href="font-awesome-4.2.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="font-awesome-4.2.0/css/font-awesome.css">
 
+	
 	<style type="text/css">
 
 	/*Desde un escritorio*/
@@ -72,6 +75,13 @@
 </div>
 
 
+<div class="row-fluid">
+	<div class="span12">
+		<i class="icon-user text-big"></i>
+	</div>
+</div>
+
+
 
 
 <div class="row-fluid">
@@ -88,7 +98,7 @@
 		<i class="icon-user"></i>
 		<i class="icon-pencil"></i>
 		<i class="icon-file"></i>
-		<a href="" class="btn"><i class="icon-ok"></i> Confirmar</a>
+		<a href="" class="btn"><i class="icon-ok"></i>Confirmar</a>
 	</div>
 	<div class="span4">
 		<div class="input-prepend">
