@@ -42,12 +42,21 @@
 
 	}
 
+	.text-big{
+		font-size: 300px;
+		line-height: 320px;
+	}
+
 
 
 	</style>
 
 </head>
 <body>
+
+
+//div.row-fluid>div.span6*2
+
 
 <div class="container">
 
