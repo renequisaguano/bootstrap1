@@ -55,7 +55,7 @@
 <body>
 
 
-//div.row-fluid>div.span6*2
+<!--div.row-fluid>div.span6*2-->
 
 
 <div class="container">
