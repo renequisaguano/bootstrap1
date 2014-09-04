@@ -57,8 +57,48 @@
 
 <!--div.row-fluid>div.span6*2-->
 
+<br>
 
-<div class="container">
+
+<div class="row-fluid">
+		<div class="span12"> &nbsp; </div>
+	</div>
+
+
+<div class="row-fluid">
+	<div class="span12">
+		<table class="table table-bordered table-striped table-hover table-condensed">
+			<tr>
+				<th>Valor de Prueba</th>
+				<th>Valor de Prueba</th>
+				<th>Valor de Prueba</th>
+				<th>Valor de Prueba</th>
+			</tr>
+			<tr>
+				<td>Valor de Prueba</td>
+				<td>Valor de Prueba</td>
+				<td>Valor de Prueba</td>
+				<td>Valor de Prueba</td>
+			</tr>
+			<tr>
+				<td>Valor de Prueba</td>
+				<td>Valor de Prueba</td>
+				<td>Valor de Prueba</td>
+				<td>Valor de Prueba</td>
+			</tr>
+			<tr>
+				<td>Valor de Prueba</td>
+				<td>Valor de Prueba</td>
+				<td>Valor de Prueba</td>
+				<td>Valor de Prueba</td>
+			</tr>
+		</table>
+
+	</div>
+</div>
+
+
+
 
 	<div class="row-fluid">
 		<div class="span12"> &nbsp; </div>
