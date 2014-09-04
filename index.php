@@ -6,8 +6,9 @@
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.css">
-	<link rel="stylesheet" href="font-awesome-4.2.0/css/font-awesome.min.css">
-	<link rel="stylesheet" href="font-awesome-4.2.0/css/font-awesome.css">
+	<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="font-awesome/css/font-awesome.css">
+
 
 	
 	<style type="text/css">
@@ -60,10 +61,60 @@
 
 <!--div.row-fluid>div.span6*2-->
 
-
-
 <br>
 <div class="container">
+
+<div class="row-fluid">
+	<div class="span12">
+		<div class="page-header">
+			<h1>Grupo de Botones</h1>
+		</div>
+	</div>
+</div>
+
+<div class="btn-group">
+	<a href="" class="btn">Izq</a>
+	<a href="" class="btn">Cent</a>
+	<a href="" class="btn">Der</a>
+</div>
+
+<div class="btn-group btn-group-vertical">
+	<a href="" class="btn">q</a>
+	<a href="" class="btn">w</a>
+	<a href="" class="btn">e</a>
+</div>
+
+<div class="btn-toolbar">
+<div class="btn-group">
+	<a href="" class="btn">Izq</a>
+	<a href="" class="btn">Cent</a>
+	<a href="" class="btn">Der</a>
+</div>
+<div class="btn-group">
+	<a href="" class="btn">q</a>
+	<a href="" class="btn">w</a>
+	<a href="" class="btn">e</a>
+</div>
+
+	
+</div>
+<br>
+
+<div class="btn-group">
+	<a href="" class="btn dropdown-toggle btn-primary" data-toggle="dropdown">Desplegar
+<span class="caret"></span>
+	</a>
+	<ul class="dropdown-menu">
+		<li><a href="">Probando</a></li>
+		<li><a href="">Probando</a></li>
+		<li><a href="">Probando</a></li>
+		<li><a href="">Probando</a></li>
+	</ul>
+</div>
+
+
+
+
 
 
 <div class="row-fluid">
@@ -77,7 +128,7 @@
 
 <div class="row-fluid">
 	<div class="span12">
-		<i class="icon-user text-big"></i>
+		<i class="fa fa-user text-big"></i>
 	</div>
 </div>
 
@@ -497,11 +548,12 @@
 
 	</div>
 
-	
-
-
-	
+		
 </div>
+<script src="jquery-ui-1.9.1/jquery-1.8.2.js"></script>
+<script src="js/bootstrap.min.js"></script>
+
+
 
 </body>
 </html>
